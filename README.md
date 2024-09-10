@@ -3,7 +3,7 @@
 
 ## Sobre mim
 :earth_americas: <b>Onde moro?</b> Belo Horizonte - MG <br>
-:birthday: <b>Quantos anos tenho?</b> 25 anos <br>
+:birthday: <b>Quantos anos tenho?</b> 26 anos <br>
 :open_book:	<b>O que estou estudando atualmente?</b> Estou buscando melhorar meu inglês e a oratória. <br>
 :blue_book:	<b>O que me motiva?</b> Saber que será possível a realização dos meus objetivos/sonhos a partir do trabalho que exerço com amor.<br>
 :beginner: <b>Quais são os meus objetivos?</b> Ser reconhecido pelo excelente trabalho prestado e fazer a diferença na vida das pessoas. <br>
